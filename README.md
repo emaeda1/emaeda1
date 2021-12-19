@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @emaeda1
+- 👋 Hi, I’m Eri Maeda.
 - 👀 I’m interested in data analytcics and finance.
-- 🌱 I’m currently learning Machine Learning and Data Visualization.
+- 🌱 I’m currently learning Machine Learning and Data Visualization. 
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me through LinkedIn.
 
